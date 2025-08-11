@@ -1,0 +1,10 @@
+name = "Crista"
+alias = "La ejecutora"
+category = "Guerrera"
+weapon = "Hacha"
+
+[ability]
+name = "No me hagas perder el tiempo"
+description = "Una vez por batalla Crista puede tomar el chance de ejecutar a su enemigo, si la ejecución resulta positiva el enemigo al que se está enfrentando queda destrozado y la batalla finaliza; aunque, si falla, la vida de Crista se reduce a la mitad. El ratio de acierto va aumentando en dependencia de cuanta vida tenga el enemigo."
+duration = -1
+cooldonw = -1

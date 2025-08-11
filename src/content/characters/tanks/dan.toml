@@ -1,0 +1,10 @@
+name = "Dan"
+alias = "El maniquí"
+category = "Tanque"
+weapon = "Maza"
+
+[ability]
+name = "Piezas van piezas vienen"
+description = "Dan se encuentra en un estado entre humano y objeto, lo que causa que sus piezas sean removibles. Si en algún punto Dan es atacado el puede remover la parte del cuerpo (o pieza) a la que se le estaba apuntando, lo que deja el enemigo en desventaja y permite que dentro de esa abertura Dan pueda contraatacar."
+duration = 1
+cooldonw = 3

@@ -1,0 +1,10 @@
+name = "Adrian"
+alias = "El guepardo"
+category = "Escapista"
+weapon = "Espada"
+
+[ability]
+name = "Velocidad acelerada"
+description = "Adrian fue experimentado de niño en un laboratorio para ver el efecto de mutaciones genéticas en humanos. Los científicas pensaron no lograr ningún resultado, sin embargo, un día que este decidío escapar se dió cuenta que todo a su alrededor por instantes parecía ir mucho más lente. Su habilidad le permite tener pequeños 'acelerones' que le ayudan a escapar y atacar más rápido (en caso que lo necesite)."
+duration = 1
+cooldown = 2

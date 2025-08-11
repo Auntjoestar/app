@@ -1,0 +1,10 @@
+name = "Vanessa"
+alias = "El martillo del norte"
+category = "Tanque"
+weapon = "Mazo"
+
+[ability]
+name = "Espiritu tortuga"
+description = "El espiritu animal de Vanessa puede hacerle de escudo ante ataques enemigos. Si el escado se activa mientras un enemigo la está atacando, este actua como parry trasnfiriendo un cuarto del daño de regreso a su atacante."
+duration = 3
+cooldown = 6

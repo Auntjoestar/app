@@ -1,0 +1,10 @@
+name = "Dani"
+alias = "El Golem"
+category = "Tanque"
+weapon = "Mandoble"
+
+[ability]
+name = "La destrucción"
+description = "Dani puede utilizar su enorme cuerpo para hacer un dash que destruye objetos a su paso y hacerle daño a los enemigos más frágiles que él (los cuales son la mayoría)."
+duration = 1
+cooldown = 4

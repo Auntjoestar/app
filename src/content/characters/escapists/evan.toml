@@ -1,0 +1,10 @@
+name = "Evan"
+alias = "El pulpo"
+category = "Escapista"
+weapon = "Arco"
+
+[ability]
+name = "Escape furtivo"
+description = "La habilidad de Evan le hace justicia a su nombre, cuando se siente amanezada puede activar su invisibilidad, la cual deja al rededor del lugar dónde previamente se encontraba un aura oscura que reduce la visibilidad de sus enemigos."
+duration = 5
+cooldown = 4

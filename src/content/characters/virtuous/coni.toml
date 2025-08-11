@@ -1,0 +1,10 @@
+name = "Connie"
+alias = "El ojo que todo lo ve"
+category = "Virtuosa"
+weapon = "Hoz"
+
+[ability]
+name = "No soy quién crees que soy"
+description = "Connie puede crear 5 copias suyas que le sirven tanto como decoy como puntos de vista. El único problema es que para lograr esto Connie no se está clonando, sino que se está separando 5 entidades sin saber realmente cual es la verdadera. Cuando un enemigo intenta atacarla se echaran suertes para saber si se está atancando realmente a ella."
+duration = 5
+cooldown = 7
