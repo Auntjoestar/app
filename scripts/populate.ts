@@ -4,7 +4,7 @@ import { readdirSync, statSync } from "node:fs";
 import { treaty } from "@elysiajs/eden";
 import { App } from "../src/app";
 
-const api = treaty<App>("localhost:3000");
+const api = treaty<App>("https://pericojuegos-api.onrender.com/");
 
 // Define a type for parsed TOML data
 type TomlData = Record<string, any>;

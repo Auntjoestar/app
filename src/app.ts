@@ -1,6 +1,5 @@
 import { Elysia } from "elysia";
 import { Logestic } from "logestic";
-import swagger from "@elysiajs/swagger";
 import characters from "./routers/characters/characters";
 import abilities from "./routers/abilities/abilities";
 import characterAbilities from "./routers/characters/charactersAbilities";
@@ -10,7 +9,6 @@ export const db = initDB();
 
 export const app = new Elysia()
   .use(Logestic.preset("common"))
-  .use(swagger())
   .decorate("db", db)
   .use(characters)
   .use(abilities)
