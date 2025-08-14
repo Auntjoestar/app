@@ -1,5 +1,5 @@
-name: "Protect branch: {{ github.ref_name }}"
-run-name: ${{ github.actor }} is trying to integrate code into {{ github.ref_name }}
+name: "Protect branches"
+run-name: ${{ github.actor }} is trying to integrate code into an important branch
 on:
   push:
     branches:
