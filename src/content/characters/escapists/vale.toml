@@ -3,7 +3,7 @@ alias = "El espectro"
 category = "Escapista"
 weapon = "Garrote"
 
-[abilty]
+[ability]
 name = "Integración"
 description = "Valeria fue entrenada en las artes del camuflaje, lo que le permite poder escoger una iluminación (luz o sombra) en la que pasara desapercibida, sin embargo un cambio repentino de luces mientras usa su habilidad la dejará expuesta."
 duration = 3

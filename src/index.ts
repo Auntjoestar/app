@@ -1,7 +1,6 @@
-import { Elysia } from "elysia";
+import "dotenv/config";
+import { app } from "./app";
 
-const app = new Elysia().get("/", () => "Hello Elysia").listen(3000);
-
-console.log(
-  `🦊 Elysia is running at ${app.server?.hostname}:${app.server?.port}`,
-);
+const port = process.env.PORT!;
+app.listen(port);
+console.log(`Server started at: ${app.server?.hostname}:${app.server?.port}`);
